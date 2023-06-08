@@ -1,0 +1,14 @@
+{
+    "paths": {
+        "exclude": [
+            "build/**",
+            "docs/**",
+            "scripts/**",
+            "tests/**",
+            "**/private",
+            "+(web|mobile)Apps/**/resources/components/**/lib/*"
+        ]
+    },
+    "rules": {},
+    "auditors": {}
+}
